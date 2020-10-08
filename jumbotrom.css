@@ -99,5 +99,19 @@ body{
 }
 
 
+.u2{
+  background-image: url(img/g1.gif);
+}
+
+.te{
+        background:#000;
+        opacity: 0.6; 
+        filter:alpha(opacity=40); 
+        zoom:1; 
+}
+
+
+
+
 
 
